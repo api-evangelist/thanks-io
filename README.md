@@ -64,23 +64,148 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Thanks.io is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+Thanks.io provides AI‑powered direct‑mail automation, letting businesses send handwritten‑style postcards, letters and gift cards via an API. Users can design mail with AI, add QR tracking, and integrate with e‑commerce platforms. Free samples and a $10 credit are offered for new accounts.
 
-**Areas:** Company
+**Areas:** Company · AI · DirectMail · Automation · API
 
 ## Thanks.io on APIs.io
 
 Everything profiled for Thanks.io is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/thanks-io/](https://apis.io/providers/thanks-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (14)
+
+- [Thanks.io Creatives Library API](https://apis.io/apis/thanks-io/thanks-io-creatives-library-api/) — Your Creatives library: saved pairings of an image template and a message template. Sending one by `creative_id` is the recommended way to send. Creatives…
+- [Thanks.io Dynamic Images API](https://apis.io/apis/thanks-io/thanks-io-dynamic-images-api/) — The Dynamic Images API from Thanks.io — 1 operation(s) for dynamic images.
+- [Thanks.io Giftcards API](https://apis.io/apis/thanks-io/thanks-io-giftcards-api/) — The Giftcards API from Thanks.io — 2 operation(s) for giftcards.
+- [Thanks.io Handwriting Styles API](https://apis.io/apis/thanks-io/thanks-io-handwriting-styles-api/) — The Handwriting Styles API from Thanks.io — 1 operation(s) for handwriting styles.
+- [Thanks.io Image Templates API](https://apis.io/apis/thanks-io/thanks-io-image-templates-api/) — The Image Templates API from Thanks.io — 1 operation(s) for image templates.
+- [Thanks.io Mailing Lists API](https://apis.io/apis/thanks-io/thanks-io-mailing-lists-api/) — The Mailing Lists API from Thanks.io — 5 operation(s) for mailing lists.
+- [Thanks.io Message Templates API](https://apis.io/apis/thanks-io/thanks-io-message-templates-api/) — The Message Templates API from Thanks.io — 2 operation(s) for message templates.
+- [Thanks.io Order Estimates API](https://apis.io/apis/thanks-io/thanks-io-order-estimates-api/) — The Order Estimates API from Thanks.io — 6 operation(s) for order estimates.
+- [Thanks.io Orders API](https://apis.io/apis/thanks-io/thanks-io-orders-api/) — The Orders API from Thanks.io — 6 operation(s) for orders.
+- [Thanks.io Recipients API](https://apis.io/apis/thanks-io/thanks-io-recipients-api/) — The Recipients API from Thanks.io — 4 operation(s) for recipients.
+- [Thanks.io Send Mailer API](https://apis.io/apis/thanks-io/thanks-io-send-mailer-api/) — The Send Mailer API from Thanks.io — 6 operation(s) for send mailer.
+- [Thanks.io Webhook Events API](https://apis.io/apis/thanks-io/thanks-io-webhook-events-api/) — The Webhook Events API from Thanks.io — 0 operation(s) for webhook events.
+- [Thanks.io Webhooks API](https://apis.io/apis/thanks-io/thanks-io-webhooks-api/) — The Webhooks API from Thanks.io — 2 operation(s) for webhooks.
+- [Thanks.io Subaccounts API](https://apis.io/apis/thanks-io/thanks-io-subaccounts-api/) — The Subaccounts API from Thanks.io — 2 operation(s) for subaccounts.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Thanks Io Webhooks](https://apis.io/asyncapis/thanks-io/thanks-io-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Thanks Io Agentic Access](https://apis.io/agentic-access/thanks-io/thanks-io-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Estimate Response](https://apis.io/schemas/thanks-io/thanks-io-estimate-response/)
+- [order-item](https://apis.io/schemas/thanks-io/thanks-io-order-item/)
+- [recipient](https://apis.io/schemas/thanks-io/thanks-io-recipient/)
+- [recipient-create](https://apis.io/schemas/thanks-io/thanks-io-recipient-create/)
+- [send-mailer-base](https://apis.io/schemas/thanks-io/thanks-io-send-mailer-base/)
+- [Send Mailer Order Submitted Response](https://apis.io/schemas/thanks-io/thanks-io-send-mailer-order-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Thanks Io Context](https://apis.io/jsonld/thanks-io/thanks-io-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Thanks.io API Rules](https://apis.io/rules/thanks-io/thanks-io-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Thanks Io Authentication](https://apis.io/security/thanks-io/thanks-io-authentication/)
+- [Thanks Io Domain Security](https://apis.io/security/thanks-io/thanks-io-domain-security/)
+- [Thanks Io Trust Center](https://apis.io/security/thanks-io/thanks-io-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Thanks Io Plans Pricing](https://apis.io/plans/thanks-io/thanks-io-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Thanks Io Rate Limits](https://apis.io/rate-limits/thanks-io/thanks-io-rate-limits/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://thanks.io/)
+- [Documentation](https://docs.thanks.io/)
+- [Getting started](https://docs.thanks.io/quickstart)
+- [API reference](https://docs.thanks.io/)
+- [Pricing](https://thanks.io/pricing)
+- [Support](https://help.thanks.io)
+- [Security](https://thanks.io/security)
+- [Compliance](https://thanks.io/security)
+- [Terms of service](https://thanks.io/terms)
+- [Privacy policy](https://thanks.io/privacy)
+- [GitHub](https://github.com/thanks-io)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/thanks-io/](https://apis.io/providers/thanks-io/).
+**Kin Score 72.1** — exemplar · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 71.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 52.1 |
+| Developer ergonomics | 58.8 |
+| Access clarity | 88.9 |
+
+**Agent readiness 65.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/thanks-io/](https://apis.io/providers/thanks-io/).
 
 ## How this profile is made
 
